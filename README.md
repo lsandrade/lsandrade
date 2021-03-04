@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/oluan/)
 
 - 🔭 I’m currently working on a data analysis project.
-- 🌱 I’m currently learning business intelligence tools like Tableau and Google Analytics, Design patterns and microservices architecture.
+- 🌱 I’m currently learning business intelligence tools like Tableau and Google Analytics, Design patterns, Kotlin and hexagonal architecture.
 - 🤝 I’m looking to collaborate on data science and machine learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lsandrade)

@@ -10,7 +10,7 @@
 - 🤝 I’m looking to collaborate on data science and machine learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lsandrade)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/lsandrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsandrade)](https://github.com/lsandrade/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>

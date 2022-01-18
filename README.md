@@ -5,9 +5,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/oluan/)
 
-- 🔭 I’m currently working as Data Engineer.
-- 🌱 I’m currently learning data services on AWS and Golang.
-- 🤝 I’m looking to collaborate on data science and machine learning projects. 
+- 🔭 I’m currently working as Software Developer @ [Vendasta](https://github.com/vendasta) ([@vendastaluan](https://github.com/vendastaluan)).
+- 🌱 I’m currently learning Go and GCP.
+- 🤝 I’m looking to collaborate on open source projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lsandrade)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsandrade)](https://github.com/lsandrade/github-readme-stats)

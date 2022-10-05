@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luan</h1>
+<h2 align="center">Hi 👋, I'm Luan</h2>
 <h3 align="center">Passionate about technology, traveling around and helping to make the world a fairer and safer place.</h3>
 
-<h3 align="left">Connect with me:</h3>
+#### Connect with me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/oluan/)
+[![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluan/)](https://www.linkedin.com/in/oluan/)
 
 - 🔭 I’m currently working as Software Developer @ [Unico](https://github.com/acesso-io).
 - 🌱 I’m currently learning GCP and Kubernetes.

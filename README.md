@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/oluan/)
 
 - 🔭 I’m currently working as Software Developer @ [unico](https://github.com/acesso-io).
-- 🌱 I’m currently learning Go and GCP.
+- 🌱 I’m currently learning GCP and Kubernetes.
 - 🤝 I’m looking to collaborate on open source projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lsandrade)

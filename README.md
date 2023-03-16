@@ -8,7 +8,7 @@ I'm passionate about technology, traveling around and helping to make the world 
 
 [![Linkedin: luan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluan/)](https://www.linkedin.com/in/oluan/)
 
-- 🌱 I’m currently learning GCP and Kubernetes.
+- 🌱 I’m currently learning Software Architecture.
 - 🤝 I’m looking to collaborate on open source projects.
 
 ## ⚡️ Techs

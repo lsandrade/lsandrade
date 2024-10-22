@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luan, I'm a Software Engineer @ [Unico](https://github.com/acesso-io) and I've been working in tech since 2015.
+I'm Luan, I'm a Software Engineer @ [Will Bank](https://github.com/will-bank) and I've been working in tech since 2015.
 
 I'm passionate about technology, traveling around and helping to make the world a fairer and safer place.
 
